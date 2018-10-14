@@ -1,4 +1,4 @@
-# New Report
+# News Report
 To run this project simply use the command line 'python newsreport.py'
 
 The NewReport has 3 functions:
