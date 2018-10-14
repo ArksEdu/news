@@ -5,3 +5,5 @@ The newsreport.py file has 3 functions:
 - get_topArticles - this returns the top 3 articles that have been viewed the most
 - get_topAuthors - this returns the authors in order of popularity
 - get_errorPercentages - this returns the days on which more than 1% of views resulted in an error
+
+The output of the newsreport.py is available in the newsreportOutput.txt file.  This output is based on the data in the newsdata.sql file provided by Udacity.
